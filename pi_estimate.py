@@ -1,5 +1,5 @@
 """Estimate the value of Pi with Monte Carlo simulation.
-Author:  your name here
+Author:  Miles
 Credits:  TBD
 """
 import random
